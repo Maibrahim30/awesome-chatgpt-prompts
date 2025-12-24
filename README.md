@@ -1,3 +1,20 @@
+<## 🔥 Quickstart – How to Use These Prompts
+
+There are 3 ways to use this repo:
+
+### 📌 1) Direct Copy‑Paste
+Simply browse the `prompts.csv` or scroll the README to find the prompt you want, then paste it into ChatGPT or any AI tool.
+
+### 📌 2) Search on prompts.chat  
+Visit https://prompts.chat to **search, filter, and browse** prompts interactively.
+
+### 📌 3) Self‑Host Prompt Library
+```bash
+git clone https://github.com/f/awesome-chatgpt-prompts.git
+cd awesome-chatgpt-prompts
+npm install
+npm run db:push
+npm run dev>
 <p align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
